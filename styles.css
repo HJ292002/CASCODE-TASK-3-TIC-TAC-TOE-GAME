@@ -1,0 +1,47 @@
+style
+h1 {
+    color:rgb(21, 2, 2);
+    font-size: 45px;
+    }
+    #b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9 
+    {
+        width: 95px;
+        height: 90px;
+        margin: auto;
+        border: 1px solid whitesmoke;
+        border-radius: 6px;
+        font-size: 30px;
+        text-align: center;
+        background-color:rgb(238, 232, 232);
+    }
+    #but {
+        box-sizing: border-box;
+        width: 95px;
+        height: 45px;
+        border: 1px solid rgb(221, 205, 205);
+        margin: auto;
+        border-radius: 4px;
+        font-family: Verdana,Tahoma,sans-serif;
+        background-color:rgb(0, 0, 0);
+        color: rgb(222, 204, 204);
+        font-size: 20px;
+        cursor: pointer;
+    }
+    #print {
+        font-family: Verdana,Tahoma,sans-serif;
+        color:rgb(0, 0, 0);
+        font-size: 20px;
+    }
+    #main {
+        background-image: url(	https://www.shutterstock.com/image-vector/tic-tac-toe-game-seamless-260nw-475824154.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: relative;
+        text-align: center;
+        color: rgb(0, 0, 0);
+    }
+    #ins {
+        font-family: Verdana,Tahoma,sans-serif;
+        color:rgb(0, 0, 0);
+        font-size: 17px; 
+    }
